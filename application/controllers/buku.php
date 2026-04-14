@@ -75,4 +75,3 @@ class Buku extends CI_Controller {
         redirect('buku');
     }
 }
-
