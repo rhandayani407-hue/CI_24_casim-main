@@ -46,4 +46,3 @@
         $('#dataTable').DataTable();
     });
 </script>
-
